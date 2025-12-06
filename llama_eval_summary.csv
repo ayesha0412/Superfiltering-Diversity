@@ -1,0 +1,5 @@
+model,dataset,num_samples,avg_prompt_words,prompt_lex_div,avg_response_words,response_lex_div,empty_response_%
+LLaMA2 Superfiltered 10%,koala,180,151.17,0.233,148.31,0.1749,1.11
+LLaMA2 Superfiltered 10%,sinstruct,252,45.78,0.1262,115.68,0.1559,0.79
+LLaMA2 Superfiltered 10%,vicuna,80,45.1,0.1815,147.59,0.2035,0.0
+LLaMA2 Superfiltered 10%,wizardlm,218,78.09,0.2017,135.65,0.1683,1.83

@@ -1,0 +1,6 @@
+model,dataset,num_samples,avg_prompt_words,prompt_lex_div,avg_response_words,response_lex_div,empty_response_%
+GPT-2 Superfiltered 10%,koala,180,143.17,0.2459,61.64,0.1913,1.67
+GPT-2 Superfiltered 10%,lima,300,41.29,0.2034,56.19,0.1598,3.33
+GPT-2 Superfiltered 10%,sinstruct,252,37.78,0.1524,186.65,0.0466,3.57
+GPT-2 Superfiltered 10%,vicuna,80,37.1,0.2193,201.32,0.0882,1.25
+GPT-2 Superfiltered 10%,wizardlm,218,70.09,0.2245,49.58,0.221,4.59
