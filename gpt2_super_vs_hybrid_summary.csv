@@ -1,0 +1,11 @@
+Dataset,Model,#Samples,Avg Prompt Words,Avg Response Words,Empty Responses,Empty Response (%)
+koala,GPT-2 Hybrid KMeans 10%,180,143.17,68.49,5,2.78
+koala,GPT-2 Superfilter 10%,180,143.17,61.64,3,1.67
+lima,GPT-2 Hybrid KMeans 10%,300,41.29,78.19,8,2.67
+lima,GPT-2 Superfilter 10%,300,41.29,56.19,10,3.33
+sinstruct,GPT-2 Hybrid KMeans 10%,252,37.78,71.59,4,1.59
+sinstruct,GPT-2 Superfilter 10%,252,37.78,186.65,9,3.57
+vicuna,GPT-2 Hybrid KMeans 10%,80,37.1,75.2,6,7.5
+vicuna,GPT-2 Superfilter 10%,80,37.1,201.32,1,1.25
+wizardlm,GPT-2 Hybrid KMeans 10%,218,70.09,73.96,5,2.29
+wizardlm,GPT-2 Superfilter 10%,218,70.09,49.58,10,4.59
