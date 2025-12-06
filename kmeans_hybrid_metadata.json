@@ -1,0 +1,14 @@
+{
+  "data_file": "alpaca_data_gpt2_data.json",
+  "output_data": "alpaca_data_kmeans_hybrid_10per.json",
+  "num_total_examples": 52002,
+  "num_high_ifd": 15600,
+  "top_ifd_percent": 0.3,
+  "final_percent": 0.1,
+  "num_clusters": 5200,
+  "num_selected": 5200,
+  "cluster_size_min": 1,
+  "cluster_size_max": 27,
+  "cluster_size_mean": 3.0,
+  "ifd_key": "ifd_ppl"
+}
